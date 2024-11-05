@@ -1,3 +1,5 @@
+Preview: https://mayurt18.github.io/Coin-Flip-Application/
+
 Coin Flip Application
 This is a Coin Flip Application that simulates flipping a coin and counts the number of heads and tails. 
 This app is built with HTML, CSS, and JavaScript.
